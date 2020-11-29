@@ -84,6 +84,7 @@ Notes
 Related Projects
 ----------------
 
+* Prior Art - https://github.com/eddieantonio/imgcat    
 * Original implementation: [imgcat][iTerm2_imgcat] from iTerm2  (limited tmux support)
   * There are modified versions with better tmux support by [Eric Dobson](https://gitlab.com/gnachman/iterm2/issues/3898#note_14097715) and by [@krtx](https://gist.github.com/krtx/533d33d6cc49ecbbb8fab0ae871059ec)
 * Node.js: [term-img](https://github.com/sindresorhus/term-img) (no tmux support)
